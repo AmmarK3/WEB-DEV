@@ -1,0 +1,2 @@
+D:\WebAppProject\WebApplication1100\WebApplication1100\obj\Debug\WebApplication1100.csproj.AssemblyReference.cache
+D:\WebAppProject\WebApplication1100\WebApplication1100\obj\Debug\WebApplication1100.csproj.CoreCompileInputs.cache
